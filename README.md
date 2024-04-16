@@ -1,8 +1,8 @@
-<img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/bootcamp-engenheiro-de-dados-xp.jpg" width="1080"/> ...
+<img align="right" src="https://raw.githubusercontent.com/araujoeverton/Vivo_Python_AI_Backend_Developer/main/assets/python-ia-back-end-developer.jpg" width="1080"/> ...
 
 
 
-<img align="right" src="https://raw.githubusercontent.com/araujoeverton/XP_Bootcamp_Engenharia_de_Dados/main/assets/Apache_kafka_wordtype.svg" width="200"/>
+<img align="right" src="https://raw.githubusercontent.com/araujoeverton/Vivo_Python_AI_Backend_Developer/ee03868e18d8780f932a1ade4c1175974e214cd5/assets/python-logo-only.svg" width="200"/>
 
 # Autorização de Uso
 ### 1. Salve uma cópia e utilize o material deste repositório para estudo!
