@@ -2,7 +2,7 @@
 
 
 
-<img align="right" src="https://raw.githubusercontent.com/araujoeverton/Vivo_Python_AI_Backend_Developer/ee03868e18d8780f932a1ade4c1175974e214cd5/assets/python-logo-only.svg" width="200"/>
+<img align="right" src="https://raw.githubusercontent.com/araujoeverton/Vivo_Python_AI_Backend_Developer/ee03868e18d8780f932a1ade4c1175974e214cd5/assets/python-logo-only.svg" width="100"/>
 
 # Autorização de Uso
 ### 1. Salve uma cópia e utilize o material deste repositório para estudo!
